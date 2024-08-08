@@ -1,6 +1,6 @@
 # 👨🏽‍🎓 Mourougen MARIMOUTOU
 
-**'Developper and embbeded system engineer'**
+**`Developper and embbeded system engineer`**
 ## Hi there 👋
 
 <!--

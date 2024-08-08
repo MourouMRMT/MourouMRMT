@@ -1,7 +1,7 @@
 # 👨🏽‍🎓 Mourougen MARIMOUTOU 
 
 <p style="display: flex; align-items: center;">
-  <span style="margin-right: 10px;">  Pour en savoir plus et me contacter :  </span>
+
   <a href="https://www.linkedin.com/in/mourougen-m-736614223/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="height: 30px;">
   </a>
